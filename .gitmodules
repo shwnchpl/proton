@@ -1,6 +1,7 @@
 [submodule "wine"]
 	path = wine
-	url = ../wine
+	url = https://github.com/shwnchpl/proton-wine.git
+	branch = proton_7.0-dev
 [submodule "dxvk"]
 	path = dxvk
 	url = ../dxvk
